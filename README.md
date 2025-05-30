@@ -1,5 +1,6 @@
 # MS-Edge-Profiles-Desktop-Shortcuts
 
+# Installation
 This code is to be placed into a .ps1 file it is a onetime PowerShell code script (once you have all the profiles created at least).
 
 After you would need to run this code.\
