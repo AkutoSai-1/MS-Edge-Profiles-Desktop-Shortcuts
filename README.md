@@ -1,23 +1,24 @@
 # MS-Edge-Profiles-Desktop-Shortcuts
 
 This code is to be placed into a .ps1 file it is a onetime PowerShell code script (once you have all the profiles created at least).
-<br/ style = background-color: red;>
-After you would need to run this code.
 
-Set-ExecutionPolicy Unrestricted -Scope CurrentUser
+After you would need to run this code.\
+
+`#ffffffSet-ExecutionPolicy Unrestricted -Scope CurrentUser`
 
 Press y and enter.
 
 Then you would navigate to where you have the .ps1 file with
 
-cd C:\Users\*Name*\*Where the file is*
+`cd C:\Users\*Name*\*Where the file is*`
 
-then type .\*Name*.ps1
+then type\
+`.\\*Name*.ps1`
 
 after it finishes you can type
 
-*Optional*
-Set-ExecutionPolicy restricted -Scope CurrentUser
+*Optional*\
+`Set-ExecutionPolicy restricted -Scope CurrentUser`
 
 To set the setting back to default and you are finished.
 
