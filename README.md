@@ -1,6 +1,7 @@
 # MS-Edge-Profiles-Desktop-Shortcuts
 
-This code is to be placed into a .ps1 file it is a onetime PowerShell code script (once you have all the profiles created at least).<br/>
+This code is to be placed into a .ps1 file it is a onetime PowerShell code script (once you have all the profiles created at least).
+<br/ style = background-color: red;>
 After you would need to run this code.
 
 Set-ExecutionPolicy Unrestricted -Scope CurrentUser
