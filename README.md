@@ -31,3 +31,8 @@ To set the setting back to default and you are finished.
 When done this code works even after restarting no need to run the code again it just works.
 
 It also automatically renames the Desktop shortcuts still work without having to run the code again even after restarting PC/Laptop.
+<br/>
+<br/>
+
+# Taskbar
+To pin to taskbar don't drag and drop right click and left click on pin to taskbar.
